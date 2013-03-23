@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solitaire", "Solitaire\Solitaire.csproj", "{F7E623F3-877B-4C21-A8AA-8E8D9E23ED8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayingCards", "PlayingCards\PlayingCards.csproj", "{765ACAFA-346D-4B2B-B7D9-20FE52117D52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7E623F3-877B-4C21-A8AA-8E8D9E23ED8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E623F3-877B-4C21-A8AA-8E8D9E23ED8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E623F3-877B-4C21-A8AA-8E8D9E23ED8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E623F3-877B-4C21-A8AA-8E8D9E23ED8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765ACAFA-346D-4B2B-B7D9-20FE52117D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765ACAFA-346D-4B2B-B7D9-20FE52117D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765ACAFA-346D-4B2B-B7D9-20FE52117D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765ACAFA-346D-4B2B-B7D9-20FE52117D52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
