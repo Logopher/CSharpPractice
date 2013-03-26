@@ -1,4 +1,4 @@
-Solitaire
+CSharp_Practice
 =========
 
-A C# implementation of solitaire
+Model C# implementations of example projects, assuming various levels of knowledge (potentially multiple levels for each project).
