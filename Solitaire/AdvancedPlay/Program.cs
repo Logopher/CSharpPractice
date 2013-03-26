@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Andvanced_Play
+namespace Temp_Solitaire
 {
 	class Program
 	{
 		static void Main(string[] args)
 		{
-			
 		}
 	}
 }

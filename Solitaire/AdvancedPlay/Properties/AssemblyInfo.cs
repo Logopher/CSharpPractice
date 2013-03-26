@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Andvanced Play")]
+[assembly: AssemblyTitle("Temp_Solitaire")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Andvanced Play")]
+[assembly: AssemblyProduct("Temp_Solitaire")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("8d23d8d0-7472-4366-8967-86cc20ef5c5a")]
+[assembly: Guid("b708695a-83d3-4f95-bd99-60ecc64910d4")]
 
 // Version information for an assembly consists of the following four values:
 //
